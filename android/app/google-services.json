@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918343423254",
+    "project_id": "sharex-74a5f",
+    "storage_bucket": "sharex-74a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918343423254:android:3dd343985186c281b46c37",
+        "android_client_info": {
+          "package_name": "com.example.share_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17XCj7eQOKK_Z9sa_UPjViCaFa-5jD9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
